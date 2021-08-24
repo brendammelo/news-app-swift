@@ -15,6 +15,7 @@
 		8014B17726C9DCA70038D048 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8014B17626C9DCA70038D048 /* Assets.xcassets */; };
 		8014B17A26C9DCA70038D048 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8014B17826C9DCA70038D048 /* LaunchScreen.storyboard */; };
 		8028E23F26D1D6530024EEC3 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8028E23E26D1D6530024EEC3 /* NewsTableViewCell.swift */; };
+		80401FEE26D47DF80000BD53 /* keys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80401FED26D47DF80000BD53 /* keys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8014B17926C9DCA70038D048 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8014B17B26C9DCA70038D048 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8028E23E26D1D6530024EEC3 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
+		80401FED26D47DF80000BD53 /* keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = keys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				8014B17B26C9DCA70038D048 /* Info.plist */,
 				80103DC626C9E43D00456BE6 /* ApiCaller.swift */,
 				8028E23E26D1D6530024EEC3 /* NewsTableViewCell.swift */,
+				80401FED26D47DF80000BD53 /* keys.swift */,
 			);
 			path = NewsApp;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				8014B17226C9DCA50038D048 /* ViewController.swift in Sources */,
 				8014B16E26C9DCA50038D048 /* AppDelegate.swift in Sources */,
 				8028E23F26D1D6530024EEC3 /* NewsTableViewCell.swift in Sources */,
+				80401FEE26D47DF80000BD53 /* keys.swift in Sources */,
 				8014B17026C9DCA50038D048 /* SceneDelegate.swift in Sources */,
 				80103DC726C9E43D00456BE6 /* ApiCaller.swift in Sources */,
 			);
